@@ -36,3 +36,5 @@ console.log(capAmerica.Friends)
 console.log(capAmerica.Address)
 //city of address object
 console.log(capAmerica.Address.City);
+//sayHi function
+console.log(capAmerica.sayHi())
