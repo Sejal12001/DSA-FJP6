@@ -9,3 +9,17 @@ let objSejal = {
 };
 
 console.log(objSejal);
+
+let capAmerica ={
+    Name: 'Steve',
+    Age : 56,
+    Friends : ['Natasha', 'Thor', 'Tony'],
+    Address: {
+        City: 'Queens',
+        State: 'Haryana'
+    },
+    sayHi(){
+        console.log("Cap America Says Hiii!!")
+    }
+}
+console.log(capAmerica);
