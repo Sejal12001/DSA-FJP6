@@ -22,4 +22,17 @@ let capAmerica ={
         console.log("Cap America Says Hiii!!")
     }
 }
-console.log(capAmerica);
+
+//whole object
+//console.log(capAmerica);
+
+//name of capAmerica
+console.log(capAmerica.Name);
+//age of capAmerica
+console.log(capAmerica.Age);
+//friemds of capAmerica
+console.log(capAmerica.Friends)
+//address object
+console.log(capAmerica.Address)
+//city of address object
+console.log(capAmerica.Address.City);
