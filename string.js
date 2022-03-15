@@ -38,4 +38,9 @@ console.log(fullName);
 
 //split -> return arr 
 let splitted =  str.split(" ");
+
+
 console.log(splitted)
+
+console.log(splitted)
+

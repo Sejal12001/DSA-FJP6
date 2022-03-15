@@ -38,3 +38,14 @@ console.log(capAmerica.Address)
 console.log(capAmerica.Address.City);
 //sayHi function
 console.log(capAmerica.sayHi())
+
+//add a new key
+capAmerica.Movies= ['Avengers', 'Civil war', 'Endgame']
+console.log("Object after update : ", capAmerica);
+
+//deleting a  key
+delete capAmerica.Movies;
+console.log("Object after deletion : ", capAmerica )
+
+capAmerica.Friends[5] = "Added";
+console.log(capAmerica.Friends)
