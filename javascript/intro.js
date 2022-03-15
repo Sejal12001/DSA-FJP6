@@ -27,7 +27,7 @@
 //     count--;
 // }
 
-// //is prime
+// // is prime
 
 // let p = 7;
 // for(i=2; i<7/2; i++)
@@ -41,7 +41,7 @@ for(var i =2;i<=n/2;i++){
         isPrime=false;
         break;
     }
-}
+} 
 if(isPrime==true){
     console.log("prime")
 }
